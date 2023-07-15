@@ -1,0 +1,23 @@
+Task1
+
+Although SQL is too old, it is still widely used, why?
+
+
+SQL (Structured Query Language) is indeed an older technology, but it continues to be widely used in the field of data management and analysis. There are several reasons for its enduring popularity:
+
+1. Standardization: SQL is an industry-standard language for working with relational databases. It provides a common syntax and set of functionalities that can be used across different database management systems (DBMS). This standardization makes it easier for developers and organizations to work with databases and share code.
+
+2. Relational Databases: Relational databases, which use SQL as their primary language, remain a fundamental part of many businesses and applications. These databases are known for their ability to organize and structure data in a consistent and scalable manner, making them suitable for a wide range of use cases.
+
+3. Maturity and Stability: SQL has been around since the 1970s and has evolved over time. Its maturity and stability have made it a trusted choice for data management tasks. Many organizations have invested heavily in SQL-based systems, and migrating away from them can be a significant effort.
+
+4. Performance: SQL and the underlying relational databases have been optimized for performance over the years. They offer efficient query processing, indexing mechanisms, and query optimization techniques that make them suitable for handling large volumes of data and complex queries.
+
+5. Integration with other technologies: SQL has excellent integration capabilities with various programming languages, frameworks, and tools. This allows developers to seamlessly incorporate SQL queries into their applications and leverage the power of databases without reinventing the wheel.
+
+While newer technologies like NoSQL databases and big data frameworks have emerged to address specific needs, SQL remains a dominant and essential technology for working with structured data in a wide range of industries, including finance, healthcare, e-commerce, and more.
+
+
+
+Task2
+
